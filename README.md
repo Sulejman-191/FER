@@ -187,6 +187,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Fizika 2**](https://www.github.com/studosi-fer/FIZ2)  ([**FER** link](https://www.fer.unizg.hr/predmet/fiz2))
 
+- [**Fizika**](https://www.github.com/studosi-fer/FIZIKA)  ([**FER** link](https://www.fer.unizg.hr/predmet/fiz))
+
 - [**Fizika lasera**](https://www.github.com/studosi-fer/FIZLAS)  ([**FER** link](https://www.fer.unizg.hr/predmet/fizlas))
 
 - [**Fizika materijala**](https://www.github.com/studosi-fer/FIZMAT)  ([**FER** link](https://www.fer.unizg.hr/predmet/fizmat))
