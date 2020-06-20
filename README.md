@@ -557,11 +557,11 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 ## R
 
-- [**Radarski sustavi**](https://www.github.com/studosi-fer/RADSUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/radsus))
+- [**Radarski sustavi**](https://www.github.com/studosi-fer/RADSUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/radsus_a))
 
-- [**Radijske pristupne mreže**](https://www.github.com/studosi-fer/RPM)  ([**FER** link](https://www.fer.unizg.hr/predmet/rpm))
+- [**Radijske pristupne mreže**](https://www.github.com/studosi-fer/RPM)  ([**FER** link](https://www.fer.unizg.hr/predmet/rpm_a))
 
-- [**Radiofrekvencijska i mikrovalna mjerenja**](https://www.github.com/studosi-fer/RMM)  ([**FER** link](https://www.fer.unizg.hr/predmet/rmm))
+- [**Radiofrekvencijska i mikrovalna mjerenja**](https://www.github.com/studosi-fer/RMM)  ([**FER** link](https://www.fer.unizg.hr/predmet/rmm_a))
 
 - [**Radionavigacija**](https://www.github.com/studosi-fer/RAD)  ([**FER** link](https://www.fer.unizg.hr/predmet/rad))
 
@@ -569,9 +569,9 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Raspodijeljeni sustavi**](https://www.github.com/studosi-fer/RASSUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/rassus))
 
-- [**Raspoznavanje uzoraka**](https://www.github.com/studosi-fer/RASUZO)  ([**FER** link](https://www.fer.unizg.hr/predmet/rasuzo))
+- [**Raspoznavanje uzoraka**](https://www.github.com/studosi-fer/RASUZO)  ([**FER** link](https://www.fer.unizg.hr/predmet/rasuzo_a))
 
-- [**Razdjelne mreže i distribuirana proizvodnja**](https://www.github.com/studosi-fer/RMDP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rmdp))
+- [**Razdjelne mreže i distribuirana proizvodnja**](https://www.github.com/studosi-fer/RMDP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rmdp_a))
 
 - [**Razvoj aplikacija u programskom jeziku C#**](https://www.github.com/studosi-fer/RAUPJC)  ([**FER** link](https://www.fer.unizg.hr/predmet/raupjc))
 
@@ -581,15 +581,15 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Razvoj programske potpore za web i pokretne uređaje**](https://www.github.com/studosi-fer/RPPZWIPU)  ([**FER** link](https://www.fer.unizg.hr/predmet/rppzwpu))
 
-- [**Razvoj telekomunikacijske programske podrške**](https://www.github.com/studosi-fer/RTPP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rtpp))
+- [**Razvoj telekomunikacijske programske podrške**](https://www.github.com/studosi-fer/RTPP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rtpp_a))
 
 - [**Razvoj usluga i aplikacija za operacijski sustav Android**](https://www.github.com/studosi-fer/RUAZOSA)  ([**FER** link](https://www.fer.unizg.hr/predmet/ruazosa))
 
-- [**Računala i procesi**](https://www.github.com/studosi-fer/RIP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rip))
+- [**Računala i procesi**](https://www.github.com/studosi-fer/RIP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rip_a))
 
 - [**Računalna forenzika**](https://www.github.com/studosi-fer/RACFOR)  ([**FER** link](https://www.fer.unizg.hr/predmet/racfor))
 
-- [**Računalna grafika**](https://www.github.com/studosi-fer/RACGRA)  ([**FER** link](https://www.fer.unizg.hr/predmet/racgra))
+- [**Računalna grafika**](https://www.github.com/studosi-fer/RACGRA)  ([**FER** link](https://www.fer.unizg.hr/predmet/racgra_a))
 
 - [**Računalni vid**](https://www.github.com/studosi-fer/RACVID)  ([**FER** link](https://www.fer.unizg.hr/predmet/racvid))
 
@@ -607,11 +607,11 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**SUZUKS (ne nam što je ovo)**](https://www.github.com/studosi-fer/SUZUKS)
 
-- [**Satelitske komunikacijske tehnologije**](https://www.github.com/studosi-fer/SKT)  ([**FER** link](https://www.fer.unizg.hr/predmet/skt))
+- [**Satelitske komunikacijske tehnologije**](https://www.github.com/studosi-fer/SKT)  ([**FER** link](https://www.fer.unizg.hr/predmet/skt_a))
 
 - [**Senzorske tehnologije**](https://www.github.com/studosi-fer/SENTEH)  ([**FER** link](https://www.fer.unizg.hr/predmet/senteh))
 
-- [**Signali i sustavi**](https://www.github.com/studosi-fer/SiS)  ([**FER** link](https://www.fer.unizg.hr/predmet/sis))
+- [**Signali i sustavi**](https://www.github.com/studosi-fer/SiS)  ([**FER** link](https://www.fer.unizg.hr/predmet/sis_b))
 
 - [**Sigurnost u Internetu**](https://www.github.com/studosi-fer/SUI)  ([**FER** link](https://www.fer.unizg.hr/predmet/sui))
 
@@ -623,7 +623,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Skriptni jezici**](https://www.github.com/studosi-fer/SKRJ)  ([**FER** link](https://www.fer.unizg.hr/predmet/skrjez_a))
 
-- [**Slučajni procesi u sustavima**](https://www.github.com/studosi-fer/SPUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/spus))
+- [**Slučajni procesi u sustavima**](https://www.github.com/studosi-fer/SPUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/spus_a))
 
 - [**Specijalni sustavi zaštite**](https://www.github.com/studosi-fer/SSZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/ssz))
 
@@ -631,7 +631,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Stohastički procesi**](https://www.github.com/studosi-fer/STOHA)  ([**FER** link](https://www.fer.unizg.hr/predmet/stopro_b))
 
-- [**Strojno učenje**](https://www.github.com/studosi-fer/STRUCE)  ([**FER** link](https://www.fer.unizg.hr/predmet/struce))
+- [**Strojno učenje**](https://www.github.com/studosi-fer/STRUCE)  ([**FER** link](https://www.fer.unizg.hr/predmet/su))
 
 - [**Sustavi baza podataka**](https://www.github.com/studosi-fer/SBP)  ([**FER** link](https://www.fer.unizg.hr/predmet/sbp))
 
@@ -647,13 +647,13 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 ## T
 
-- [**Tehnika visokog napona**](https://www.github.com/studosi-fer/TVN)  ([**FER** link](https://www.fer.unizg.hr/predmet/tvn))
+- [**Tehnika visokog napona**](https://www.github.com/studosi-fer/TVN)  ([**FER** link](https://www.fer.unizg.hr/predmet/tvn_a))
 
 - [**Tehnička mehanika**](https://www.github.com/studosi-fer/TEHMEH)  ([**FER** link](https://www.fer.unizg.hr/predmet/tehmeh))
 
 - [**Tehnička normizacija i legislativa**](https://www.github.com/studosi-fer/TNL)  ([**FER** link](https://www.fer.unizg.hr/predmet/tnl))
 
-- [**Tehnologija optičkih komunikacija**](https://www.github.com/studosi-fer/TOK)  ([**FER** link](https://www.fer.unizg.hr/predmet/tok))
+- [**Tehnologija optičkih komunikacija**](https://www.github.com/studosi-fer/TOK)  ([**FER** link](https://www.fer.unizg.hr/predmet/tok_a))
 
 - [**Tehnologija u medicini**](https://www.github.com/studosi-fer/TUM)  ([**FER** link](https://www.fer.unizg.hr/predmet/tum))
 
@@ -671,7 +671,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Teorija mjerenja**](https://www.github.com/studosi-fer/TEOMJE)  ([**FER** link](https://www.fer.unizg.hr/predmet/teomje))
 
-- [**Teorija prometa**](https://www.github.com/studosi-fer/TEOPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/teopro))
+- [**Teorija prometa**](https://www.github.com/studosi-fer/TEOPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/teopro_a))
 
 - [**Trgovačko pravo**](https://www.github.com/studosi-fer/TP)  ([**FER** link](https://www.fer.unizg.hr/predmet/trgpra))
 
@@ -691,9 +691,9 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Upravljanje mrežom i uslugama**](https://www.github.com/studosi-fer/UMU)  ([**FER** link](https://www.fer.unizg.hr/predmet/umu))
 
-- [**Upravljanje podacima**](https://www.github.com/studosi-fer/UPRPOD)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprpod))
+- [**Upravljanje podacima**](https://www.github.com/studosi-fer/UPRPOD)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprpod_a))
 
-- [**Upravljanje projektima**](https://www.github.com/studosi-fer/UPRPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprpro))
+- [**Upravljanje projektima**](https://www.github.com/studosi-fer/UPRPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprpro_a))
 
 - [**Upravljanje rizikom**](https://www.github.com/studosi-fer/UPRRIZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprriz))
 
@@ -711,7 +711,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Uvod u raspoznavanje uzoraka**](https://www.github.com/studosi-fer/URU)  ([**FER** link](https://www.fer.unizg.hr/predmet/uuru_a))
 
-- [**Uvod u teoriju računarstva**](https://www.github.com/studosi-fer/UTR)  ([**FER** link](https://www.fer.unizg.hr/predmet/uutr))
+- [**Uvod u teoriju računarstva**](https://www.github.com/studosi-fer/UTR)  ([**FER** link](https://www.fer.unizg.hr/predmet/utr))
 
 - [**Uvod u upravljanje znanjem**](https://www.github.com/studosi-fer/UUUZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/uuuz))
 
@@ -721,9 +721,9 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Videokomunikacijske tehnologije**](https://www.github.com/studosi-fer/VIDEO)  ([**FER** link](https://www.fer.unizg.hr/predmet/vidteh))
 
-- [**Virtualna okruženja**](https://www.github.com/studosi-fer/VIROKR)  ([**FER** link](https://www.fer.unizg.hr/predmet/virokr))
+- [**Virtualna okruženja**](https://www.github.com/studosi-fer/VIROKR)  ([**FER** link](https://www.fer.unizg.hr/predmet/virokr_a))
 
-- [**Visokofrekvencijska elektronika**](https://www.github.com/studosi-fer/VISEL)  ([**FER** link](https://www.fer.unizg.hr/predmet/visel))
+- [**Visokofrekvencijska elektronika**](https://www.github.com/studosi-fer/VISEL)  ([**FER** link](https://www.fer.unizg.hr/predmet/visel_a))
 
 - [**Višemedijske komunikacije**](https://www.github.com/studosi-fer/VMK)  ([**FER** link](https://www.fer.unizg.hr/predmet/viskom_a))
 
@@ -747,13 +747,13 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Zaštita elektroenergetskog sustava**](https://www.github.com/studosi-fer/ZES)  ([**FER** link](https://www.fer.unizg.hr/predmet/zes))
 
-- [**Zaštita i sigurnost informacijskih sustava**](https://www.github.com/studosi-fer/ZSIS)  ([**FER** link](https://www.fer.unizg.hr/predmet/zsis))
+- [**Zaštita i sigurnost informacijskih sustava**](https://www.github.com/studosi-fer/ZSIS)  ([**FER** link](https://www.fer.unizg.hr/predmet/zsis_a))
 
 - [**Zaštita komunikacijskih sustava od elektromagnetskih smetnji**](https://www.github.com/studosi-fer/ZKSOES)  ([**FER** link](https://www.fer.unizg.hr/predmet/zksoes))
 
-- [**Zvuk i okoliš**](https://www.github.com/studosi-fer/ZIO)  ([**FER** link](https://www.fer.unizg.hr/predmet/zio))
+- [**Zvuk i okoliš**](https://www.github.com/studosi-fer/ZIO)  ([**FER** link](https://www.fer.unizg.hr/predmet/zio_a))
 
-- [**Zvuk i računala**](https://www.github.com/studosi-fer/ZIR)  ([**FER** link](https://www.fer.unizg.hr/predmet/zir))
+- [**Zvuk i računala**](https://www.github.com/studosi-fer/ZIR)  ([**FER** link](https://www.fer.unizg.hr/predmet/zir_a))
 
 # 2. Promjene
 
