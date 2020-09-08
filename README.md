@@ -559,7 +559,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Projektiranje proizvodnih sustava**](https://www.github.com/studosi-fer/PPS)  ([**FER** link](https://www.fer.unizg.hr/predmet/pps))
 
-- [**Projektiranje ugrađenih računalnih sustava**](https://www.github.com/studosi-fer/PURS)  ([**FER** link](https://www.fer.unizg.hr/predmet/purs_a))
+- [**Projektiranje ugradbenih računalnih sustava**](https://www.github.com/studosi-fer/PURS)  ([**FER** link](https://www.fer.unizg.hr/predmet/purs_a))
 
 - [**Proračun elektroenergetskih mreža**](https://www.github.com/studosi-fer/PEM)  ([**FER** link](https://www.fer.unizg.hr/predmet/pem_a))
 
