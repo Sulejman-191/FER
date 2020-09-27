@@ -121,7 +121,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 ## E
 
-- [**Ekonomija i ekologija radiokomunikacijskih sustava**](https://www.github.com/studosi-fer/EERS)  ([**FER** link](https://www.fer.unizg.hr/predmet/eers))
+- [**Ekonomija i ekologija radiokomunikacijskih sustava**](https://www.github.com/studosi-fer/EIERS)  ([**FER** link](https://www.fer.unizg.hr/predmet/eers_a))
 
 - [**Ekonomija u energetici**](https://www.github.com/studosi-fer/EUE)  ([**FER** link](https://www.fer.unizg.hr/predmet/eue))
 
