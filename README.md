@@ -103,11 +103,11 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Dinamika industrijskih sustava**](https://www.github.com/studosi-fer/DIS)  ([**FER** link](https://www.fer.unizg.hr/predmet/dis_e))
 
-- [**Diskontna matematika 1**](https://www.github.com/studosi-fer/DISKMAT1)  ([**FER** link](https://www.fer.unizg.hr/predmet/dismat1))
+- [**Diskontna matematika 1**](https://www.github.com/studosi-fer/DISMAT1)  ([**FER** link](https://www.fer.unizg.hr/predmet/dismat1))
 
-- [**Diskontna matematika 2**](https://www.github.com/studosi-fer/DISKMAT2)  ([**FER** link](https://www.fer.unizg.hr/predmet/dismat2))
+- [**Diskontna matematika 2**](https://www.github.com/studosi-fer/DISMAT2)  ([**FER** link](https://www.fer.unizg.hr/predmet/dismat2))
 
-- [**Diskretna matematika**](https://www.github.com/studosi-fer/DISMAT)  ([**FER** link](https://www.fer.unizg.hr/predmet/dismat_a))
+- [**Diskretna matematika**](https://www.github.com/studosi-fer/DISMATe)  ([**FER** link](https://www.fer.unizg.hr/predmet/dismat_a))
 
 - [**Diskretno modeliranje i simuliranje**](https://www.github.com/studosi-fer/DMS)  ([**FER** link](https://www.fer.unizg.hr/predmet/dms))
 
