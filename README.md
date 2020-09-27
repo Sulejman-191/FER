@@ -37,7 +37,9 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Analogni i analogno-digitalni integrirani sklopovi**](https://www.github.com/studosi-fer/AAIS)  ([**FER** link](https://www.fer.unizg.hr/predmet/aais_a))
 
-- [**Arhitektura računala 1**](https://www.github.com/studosi-fer/ARH1)  ([**FER** link](https://www.fer.unizg.hr/predmet/arh1))
+- [**Arhitektura računala 1**](https://github.com/studosi-fer/ARHRAC1)  ([**FER** link](https://www.fer.unizg.hr/predmet/arh1))
+
+- [**Arhitektura računala 1E**](https://www.github.com/studosi-fer/ARHRAC1-E)  ([**FER** link](https://www.fer.unizg.hr/predmet/ar1e))
 
 - [**Arhitektura računala 2**](https://www.github.com/studosi-fer/ARH2)  ([**FER** link](https://www.fer.unizg.hr/predmet/arhrac2))
 
@@ -136,6 +138,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 - [**Električni krugovi**](https://www.github.com/studosi-fer/ELEKRU)  ([**FER** link](https://www.fer.unizg.hr/predmet/elekru))
 
 - [**Elektroakustika**](https://www.github.com/studosi-fer/ELEAKU)  ([**FER** link](https://www.fer.unizg.hr/predmet/ele_b))
+
+- [**Elektroenergetika**](https://www.github.com/studosi-fer/ELEENEA)  ([**FER** link](https://www.fer.unizg.hr/predmet/ele_g))
 
 - [**Elektroenergetske mreže**](https://www.github.com/studosi-fer/ELEMRE)  ([**FER** link](https://www.fer.unizg.hr/predmet/elemre_a))
 
@@ -315,6 +319,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Matematika 3R**](https://www.github.com/studosi-fer/MAT3R)  ([**FER** link](https://www.fer.unizg.hr/predmet/mat3r))
 
+- [**Matematička analiza 3**](https://github.com/studosi-fer/MATANA3)  ([**FER** link](https://www.fer.unizg.hr/predmet/matan3_a))
+
 - [**Matematička logika i izračunljivost**](https://www.github.com/studosi-fer/MLI)  ([**FER** link](https://www.fer.unizg.hr/predmet/mli))
 
 - [**Materijali u elektrotehničkim proizvodima**](https://www.github.com/studosi-fer/MUEP)  ([**FER** link](https://www.fer.unizg.hr/predmet/muep))
@@ -479,9 +485,11 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Produkcija medijskih i multimedijskih projekata**](https://www.github.com/studosi-fer/PMIMP)  ([**FER** link](https://www.fer.unizg.hr/predmet/pmmp_a))
 
+- [**Programiranje i programsko inženjerstvo**](https://github.com/studosi-fer/PIPI)
+
 - [**Poduzetništvo i izvoz u visokim tehnologijama**](https://www.github.com/studosi-fer/PIUVT)  ([**FER** link](https://www.fer.unizg.hr/predmet/piuvt))
 
-- [**POF (ne znam što je ovo)**](https://www.github.com/studosi-fer/POF)  ([**FER** link](.))
+- [**POF (ne znam što je ovo)**](https://www.github.com/studosi-fer/POF)
 
 - [**Pokretljivost u mrežama**](https://www.github.com/studosi-fer/PUM)  ([**FER** link](https://www.fer.unizg.hr/predmet/pum_a))
 
@@ -535,7 +543,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Programske paradigme i jezici**](https://www.github.com/studosi-fer/PPIJ)  ([**FER** link](https://www.fer.unizg.hr/predmet/ppj_b))
 
-- [**Programske paradigme i jezici**](https://www.github.com/studosi-fer/PPJ)  ([**FER** link](https://www.fer.unizg.hr/predmet/ppj))
+- [**Prevođenje programskih jezika**](https://www.github.com/studosi-fer/PPJ)  ([**FER** link](https://www.fer.unizg.hr/predmet/ppj))
 
 - [**Programski jezik Go**](https://www.github.com/studosi-fer/PJG)   ([**FER** link](https://www.fer.unizg.hr/predmet/pjg))
 
@@ -551,7 +559,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Projektiranje proizvodnih sustava**](https://www.github.com/studosi-fer/PPS)  ([**FER** link](https://www.fer.unizg.hr/predmet/pps))
 
-- [**Projektiranje ugrađenih računalnih sustava**](https://www.github.com/studosi-fer/PURS)  ([**FER** link](https://www.fer.unizg.hr/predmet/purs_a))
+- [**Projektiranje ugradbenih računalnih sustava**](https://www.github.com/studosi-fer/PURS)  ([**FER** link](https://www.fer.unizg.hr/predmet/purs_a))
 
 - [**Proračun elektroenergetskih mreža**](https://www.github.com/studosi-fer/PEM)  ([**FER** link](https://www.fer.unizg.hr/predmet/pem_a))
 
@@ -695,7 +703,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Upravljanje projektima**](https://www.github.com/studosi-fer/UPRPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprpro_a))
 
-- [**Upravljanje rizikom**](https://www.github.com/studosi-fer/UPRRIZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprriz))
+- [**Upravljanje rizikom (diplomski)**](https://www.github.com/studosi-fer/UPRRIZ-D)  ([**FER** link](https://www.fer.unizg.hr/predmet/uprriz))
 
 - [**Upravljanje učinskim pretvaračima**](https://www.github.com/studosi-fer/UUP)  ([**FER** link](https://www.fer.unizg.hr/predmet/uup))
 
@@ -708,6 +716,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 - [**Uvod u mjeriteljstvo**](https://www.github.com/studosi-fer/UUM)  ([**FER** link](https://www.fer.unizg.hr/predmet/uum))
 
 - [**Uvod u nanoznanost**](https://www.github.com/studosi-fer/UUN)  ([**FER** link](https://www.fer.unizg.hr/predmet/uun))
+
+- [**Uvod u programiranje**](https://www.github.com/studosi-fer/UUPr)  ([**FER** link](https://www.fer.unizg.hr/predmet/uup_a))
 
 - [**Uvod u raspoznavanje uzoraka**](https://www.github.com/studosi-fer/URU)  ([**FER** link](https://www.fer.unizg.hr/predmet/uuru_a))
 
